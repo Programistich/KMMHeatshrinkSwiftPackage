@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "KMMHeatshrink",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v13.0)
     ],
     products: [
         .library(
